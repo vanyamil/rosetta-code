@@ -1,0 +1,9 @@
+=={{header|OCaml}}==
+Original version by [http://rosettacode.org/wiki/User:Vanyamil User:Vanyamil]
+<lang OCaml>
+
+</lang>
+{{out}}
+<pre>
+
+</pre>
